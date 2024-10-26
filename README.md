@@ -84,7 +84,7 @@ For Hardware:
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+[https://suhanamaluu.github.io/useless/]
 
 ## Team Contributions
 - [Vivek]: [Javascript , full idea execution]
